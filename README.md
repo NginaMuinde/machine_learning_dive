@@ -1,3 +1,50 @@
+### Summary of this Article: TOPIC: Customer Churn Prediction and Retention Strategies for Vodafone Corporation
+
+### Key Components:
+
+#### Data Collection and Exploration:`
+
+Gather and explore data provided by the marketing and sales teams, encompassing customer demographics, service usage, and historical churn records.
+
+#### Hypothesis Formation:
+Develop hypotheses around potential factors influencing customer churn, considering aspects such as contract duration, service-related issues, pricing, billing preferences, and customer demographics.
+
+#### Null Hypothesis:
+There is no significant difference in churn likelihood between customers with shorter and longer contract durations.
+
+#### Alternative Hypothesis:
+Customers with shorter contracts are more likely to churn than those with longer contracts.
+
+
+#### `Data Preprocessing and Feature Engineering:`
+Cleanse the data, handle missing values, and engineer relevant features to enhance model performance.
+
+
+##### Model Building:
+Select and train machine learning models to predict customer churn based on historical data.
+
+
+##### Evaluation and Key Indicators:
+Evaluate the models' performance and identify key indicators contributing to customer churn.
+
+
+##### Retention Strategies:
+Collaborate with business development, marketing, and sales teams to derive actionable insights from the models and formulate effective retention strategies.
+
+
+##### Model Deployment and Integration:
+Deploy the trained models into Vodafone's systems for real-time or batch predictions, integrating them seamlessly into the business processes.
+
+
+##### Documentation and Reporting:
+Document the entire data science process, including preprocessing steps, model selection, and deployment procedures. Provide clear and concise reports on model performance, key indicators, and recommended retention strategies.
+#### Export key components
+
+##### Continuous Improvement:
+Establish a feedback loop for continuous improvement, iterating on models and strategies based on real-world feedback and evolving business dynamics.
+
+By the end of this project, we aim to equip Vodafone Corporation with predictive capabilities to anticipate customer churn and implement targeted retention measures, ultimately fostering customer satisfaction and business sustainability.
+
 ## TOPIC: Customer Churn Prediction and Retention Strategies for Vodafone Corporation
 
 #### Project Understanding and Description:
@@ -81,7 +128,6 @@ Started by merging the first and second datasets
 
 
 <img width="1440" alt="Screenshot 2024-01-10 at 15 22 56" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/5b358ec2-aea6-4bb2-b06e-8a411546cf37">
-
 
 
 <img width="1440" alt="Screenshot 2024-01-10 at 15 23 35" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/7ee5a3d1-71a4-4ee9-8472-724412348c6b">
@@ -208,54 +254,27 @@ Customers with shorter contracts are more likely to churn than those with longer
 
 <img width="1440" alt="Screenshot 2024-01-10 at 17 36 45" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/4432e502-690c-4921-96a8-545de34e63aa">
 
+<img width="1440" alt="Screenshot 2024-01-10 at 21 38 51" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/0de5ea12-bbf1-4eb7-94df-35d8ad97754d">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 21 39 15" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/4a2696e9-508e-4311-8474-fca25214872f">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 21 39 39" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/1b07abde-740e-4867-a38e-952e3765ed66">  
+
+<img width="1440" alt="Screenshot 2024-01-10 at 21 39 46" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/47ccadac-466b-4ff9-9f16-a16d561ab80b">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 21 41 06" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/28629c01-b23a-4d09-98e3-6863c608dd5b">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 21 41 42" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/4d63eded-1bcf-48c8-8b94-a7dc8503e1ff">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 21 42 05" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/c3553e1c-6f3f-4236-a41b-33748d311d38">
+
+#### Step 7: Evaluation
+<img width="1440" alt="Screenshot 2024-01-10 at 21 49 39" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/a1a28274-1287-430b-9c3f-f252321bb44a">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 21 50 03" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/10171af2-064e-4fae-8a98-53309fd2bc6d">
 
 
 
 
 
-Step 7: Hyperparameter Tuning/Model Improvement
 
-### Key Components:
-
-#### Data Collection and Exploration:`
-
-Gather and explore data provided by the marketing and sales teams, encompassing customer demographics, service usage, and historical churn records.
-
-#### Hypothesis Formation:
-Develop hypotheses around potential factors influencing customer churn, considering aspects such as contract duration, service-related issues, pricing, billing preferences, and customer demographics.
-
-#### Null Hypothesis:
-There is no significant difference in churn likelihood between customers with shorter and longer contract durations.
-
-#### Alternative Hypothesis:
-Customers with shorter contracts are more likely to churn than those with longer contracts.
-
-
-#### `Data Preprocessing and Feature Engineering:`
-Cleanse the data, handle missing values, and engineer relevant features to enhance model performance.
-
-
-##### Model Building:
-Select and train machine learning models to predict customer churn based on historical data.
-
-
-##### Evaluation and Key Indicators:
-Evaluate the models' performance and identify key indicators contributing to customer churn.
-
-
-##### Retention Strategies:
-Collaborate with business development, marketing, and sales teams to derive actionable insights from the models and formulate effective retention strategies.
-
-
-##### Model Deployment and Integration:
-Deploy the trained models into Vodafone's systems for real-time or batch predictions, integrating them seamlessly into the business processes.
-
-
-##### Documentation and Reporting:
-Document the entire data science process, including preprocessing steps, model selection, and deployment procedures. Provide clear and concise reports on model performance, key indicators, and recommended retention strategies.
-#### Export key components
-
-##### Continuous Improvement:
-Establish a feedback loop for continuous improvement, iterating on models and strategies based on real-world feedback and evolving business dynamics.
-
-By the end of this project, we aim to equip Vodafone Corporation with predictive capabilities to anticipate customer churn and implement targeted retention measures, ultimately fostering customer satisfaction and business sustainability.
