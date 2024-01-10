@@ -101,16 +101,119 @@ Started by merging the first and second datasets
 
 <img width="1440" alt="Screenshot 2024-01-10 at 15 25 10" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/7f47a666-3e82-4e7c-b104-c535ae815ed0">
 
+Additional Visuals
 
-Step 4: Feature Engineering
+<img width="728" alt="Screenshot 2024-01-10 at 12 42 44" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/89a199cc-1c53-4ac7-a6d7-69a9a30e8427">
 
-Step 5: Train/Test Split
+<img width="535" alt="Screenshot 2024-01-10 at 12 42 58" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/657ae073-77e9-4652-8814-0a468bca1d40">
 
-Step 6: Model Evaluation Metrics Definition
+<img width="453" alt="Screenshot 2024-01-10 at 12 43 39" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/b63b695a-676d-4313-8734-17e54b640d59">
 
-Step 7: Model Selection, Training, Prediction and Assessment
+#### Answer Analytical Questions
 
-Step 8: Hyperparameter Tuning/Model Improvement
+##### Question 1: 
+How does the length of a customer's contract term correlate with the likelihood of churn?
+
+##### Question 2: 
+What is the distribution of contract durations among customers who have churned compared to those who have not?
+
+##### Question 3: 
+What is the Proportion of customers with short contract durations using additional services
+
+##### Question 4: 
+How does the method of payment impact customer churn?
+
+##### Question 5: 
+Does the monthly and Total charges affect the probability of a customer churning?
+
+<img width="1440" alt="Screenshot 2024-01-10 at 16 43 39" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/88c4e61f-7f4b-44aa-93b7-6337e2eb6009">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 16 44 00" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/575673c6-fbad-464d-b875-2c28b8059758">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 16 44 51" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/5f0cad18-922f-45e7-aca1-6906e8ed0048">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 16 44 14" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/018c556a-cb95-4588-be88-d91e24604a0c">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 16 45 01" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/e053adcd-a1df-4f7f-a1be-14a2a177691a">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 16 45 43" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/476e3cb1-9fe7-41e9-9052-a0dc7538ca81">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 16 46 08" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/2639adbb-2242-4e49-af90-32d3fd5bf943">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 16 46 33" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/066d253d-3771-4593-b8ec-1101b1229c3e">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 16 46 59" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/24d05bba-af0f-412d-84a0-33bfe42746ff">
+
+
+#### Test the Hypothesis:
+#### Null Hypothesis:
+There is no significant difference in churn likelihood between customers with shorter and longer contract durations.
+
+#### Alternative Hypothesis:
+Customers with shorter contracts are more likely to churn than those with longer contracts.
+
+<img width="1440" alt="Screenshot 2024-01-10 at 16 51 52" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/6f8764de-d986-46f5-906a-f4a4b791fc67">
+
+
+#### Step 4: Train/Test Split Data 
+### a) Split the dataset into X and y test features
+### b) Split data set into training and evaluation sets
+
+<img width="1440" alt="Screenshot 2024-01-10 at 16 56 39" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/7dfcbf2e-7470-459f-8096-48a4ed1ac29b">
+
+#### Step 5: Feature Processing and Engineering
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 03 21" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/35fcd5c2-58e8-40f9-9811-e3be21ca2a2d">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 04 37" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/e8d57597-934f-42f7-8dba-79781bda9faa">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 05 48" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/923bea7d-ee56-4de3-bdf4-4e2c7312022f">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 06 48" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/f7a08f38-40ab-4a4c-84d4-d766598cf205">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 07 45" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/0c3a3c9b-eaf7-456f-a30d-2277e747e18d">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 09 06" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/c1192ea1-847c-4146-9e34-cf5faed7544e">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 09 59" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/6abf804f-3d7c-4b30-95e7-89fcc5d7182c">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 11 44" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/6089a82a-52e9-49d6-842e-f7f61bc6b761">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 13 28" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/73e998cd-9ea3-4fd9-a67b-8d40c7eb75c0">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 14 03" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/7e2e4472-be3f-4af9-8bd1-fcae04c637d4">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 29 19" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/a201d940-a436-4f8e-b53e-c4cf009e0944">
+
+#### Summary:
+
+1. **Before SMOTE:**
+   - Random Forest consistently performed the best with the highest accuracy (78.99%) and F1 score (78.21%).
+   - Logistic Regression and Decision Tree also showed competitive performance.
+
+2. **After SMOTE:**
+   - Random Forest maintained its strong performance with an accuracy of 77.99% and an improved F1 score of 78.12%.
+   - Logistic Regression and Decision Tree also exhibited slight improvements.
+   - K Nearest Neighbors and Gaussian Naive Bayes, although improved, still lag behind in performance.
+
+3. **Overall:**
+   - Random Forest remains the top-performing model after applying SMOTE, demonstrating robustness to class imbalance.
+
+
+#### Step 6: Modelling
+
+<img width="1440" alt="Screenshot 2024-01-10 at 17 36 45" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/4432e502-690c-4921-96a8-545de34e63aa">
+
+
+
+
+
+
+Step 7: Hyperparameter Tuning/Model Improvement
 
 ### Key Components:
 
@@ -127,22 +230,6 @@ There is no significant difference in churn likelihood between customers with sh
 #### Alternative Hypothesis:
 Customers with shorter contracts are more likely to churn than those with longer contracts.
 
-#### Analytical Questions
-
-##### Question 1: 
-How does the length of a customer's contract term correlate with the likelihood of churn?
-
-##### Question 2: 
-What is the distribution of contract durations among customers who have churned compared to those who have not?
-
-##### Question 3: 
-What is the Proportion of customers with short contract durations using additional services
-
-##### Question 4: 
-How does the method of payment impact customer churn?
-
-##### Question 5: 
-Does the monthly and Total charges affect the probability of a customer churning?
 
 #### `Data Preprocessing and Feature Engineering:`
 Cleanse the data, handle missing values, and engineer relevant features to enhance model performance.
