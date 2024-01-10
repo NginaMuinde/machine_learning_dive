@@ -40,6 +40,28 @@ Then did the data loading of all three datasets
 
 <img width="1440" alt="Screenshot 2024-01-10 at 13 32 14" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/f6978eae-8ecb-4342-8537-d37faacf900e">
 
+<img width="1440" alt="Screenshot 2024-01-10 at 14 22 25" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/aa010b21-44a4-4a6c-a5b9-a884d0ab5deb">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 14 36 42" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/c1d26799-e8c7-43ec-aea6-09dd8af817fa">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 14 37 10" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/8eec406d-0da7-4681-bcd9-37d89acc69f6">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 20 14" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/2757478b-b1e3-4bed-8ad9-e3ccbf98ef1e">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 20 24" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/06195d3e-4479-4f42-9bac-b43b62a8d641">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 20 32" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/d40e61fc-5d45-4827-8b4b-62348d9b504c">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 20 44" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/95ee3baf-a96f-40d3-8ba2-731c8bcb9cee">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 21 13" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/10739c52-e6b8-40d8-99f7-f82c3ede18c4">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 21 25" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/43ebd22a-d3c3-49db-a832-eba594d6de1c">
+
+
+
 Step 3: Exploratory Data Analysis (EDA)
 
 Started by merging the first and second datasets
@@ -56,9 +78,48 @@ Started by merging the first and second datasets
 <img width="1440" alt="Screenshot 2024-01-10 at 13 39 04" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/f25ab94a-8ab9-4b96-8357-045b0d542889">
 
 
+<img width="1440" alt="Screenshot 2024-01-10 at 15 21 37" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/35bcab0c-2ae1-4e1c-8075-fe2c1a1c5680">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 21 43" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/a12b644c-61e4-4e4c-9ae6-635133181def">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 21 49" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/63d7837d-7630-4309-ad19-612f9b47e194">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 21 56" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/16dff81e-b386-4d17-b64e-5e09d18bc0cd">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 22 21" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/8d76c9a3-ce10-4647-abab-b56db0dd92ff">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 22 39" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/7882559a-1785-4507-bc80-9f97229d1b41">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 22 48" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/c84b7633-0791-4f52-bf01-edc733d0d8f5">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 22 56" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/5b358ec2-aea6-4bb2-b06e-8a411546cf37">
 
 
 
+<img width="1440" alt="Screenshot 2024-01-10 at 15 23 35" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/7ee5a3d1-71a4-4ee9-8472-724412348c6b">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 23 47" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/0be6f61d-e3d9-4f51-8244-f424e6237f4e">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 15 24 11" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/babd7ed9-327d-48cb-9d98-9984ca13169d">
+
+
+![Uploading Screenshot 2024-01-10 at 15.24.34.png…]()
+
+
+
+![Uploading Screenshot 2024-01-10 at 15.24.56.png…]()
+
+
+![Uploading Screenshot 2024-01-10 at 15.25.10.png…]()
 
 Step 4: Feature Engineering
 
