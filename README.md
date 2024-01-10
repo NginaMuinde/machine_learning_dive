@@ -11,8 +11,13 @@ Our task is to train machine learning models to predict churn on an individual c
 In this project, a basic machine learning pipeline based on a sample data set from Kaggle is build and performance of different model types is compared. The pipeline used for this example consists of 8 steps:
 
 Step 1: Problem Definition
+Why do customers churn? We need to establish the reasons why customers churn and train a machine model to be able to predict whether a customer will churn.
+<img width="1440" alt="Screenshot 2024-01-10 at 13 06 51" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/1e3624ff-d6fc-48ce-bba7-2409bf7b315f">
 
 Step 2: Data Collection
+We have three sources of data.
+The first and second data are for machine training the third data is for machine testing.
+
 
 Step 3: Exploratory Data Analysis (EDA)
 
