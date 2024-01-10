@@ -11,6 +11,7 @@ Our task is to train machine learning models to predict churn on an individual c
 In this project, a basic machine learning pipeline based on a sample data set from Kaggle is build and performance of different model types is compared. The pipeline used for this example consists of 8 steps:
 
 Step 1: Problem Definition
+
 Why do customers churn? We need to establish the reasons why customers churn and train a machine model to be able to predict whether a customer will churn.
 <img width="1440" alt="Screenshot 2024-01-10 at 13 06 51" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/1e3624ff-d6fc-48ce-bba7-2409bf7b315f">
 
@@ -18,8 +19,46 @@ Step 2: Data Collection
 We have three sources of data.
 The first and second data are for machine training the third data is for machine testing.
 
+First I started by importing the relevant libraries and modules
+
+<img width="1388" alt="Screenshot 2024-01-10 at 13 56 30" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/f72ace47-4e35-4f1d-a967-1e85ff18951d">
+
+Then did the data loading of all three datasets
+
+<img width="1440" alt="Screenshot 2024-01-10 at 13 19 59" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/2779c365-f879-4e8f-9bf4-6f4c8905f0fd">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 13 23 57" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/838a12a9-31dc-45f5-ad29-41014d2c5937">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 13 29 15" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/12a3c102-976c-4798-ab97-f02e4eb29d2b">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 13 31 49" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/e625b61c-8209-4184-af06-5460d65d6697">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 13 32 01" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/68baaa15-ee15-441a-acec-e15db6bedef2">
+
+<img width="1440" alt="Screenshot 2024-01-10 at 13 32 07" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/ba7d8364-b8a7-4000-9181-d32eef7dcabb">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 13 32 14" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/f6978eae-8ecb-4342-8537-d37faacf900e">
 
 Step 3: Exploratory Data Analysis (EDA)
+
+Started by merging the first and second datasets
+
+<img width="1440" alt="Screenshot 2024-01-10 at 13 38 27" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/c21da504-1289-493c-845d-b314edaafff0">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 13 38 40" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/7f88cd14-3243-4c9b-91df-8e471df9cadf">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 13 38 52" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/2cd4fd33-fc6b-4937-9219-827aa6550d27">
+
+
+<img width="1440" alt="Screenshot 2024-01-10 at 13 39 04" src="https://github.com/NginaMuinde/machine_learning_dive/assets/149095447/f25ab94a-8ab9-4b96-8357-045b0d542889">
+
+
+
+
+
 
 Step 4: Feature Engineering
 
